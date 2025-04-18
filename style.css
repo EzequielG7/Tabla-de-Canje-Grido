@@ -1,0 +1,36 @@
+body{
+    background-color: rgba(255, 228, 196, 0.527);
+    font-family: sans-serif;
+}
+header{
+    display:flex;
+    align-items:center;
+    justify-content: space-around;
+}
+head{
+    display: flex;
+    justify-content: center;
+}
+li{
+    list-style: none;
+}
+img{
+    width:20vh;
+}
+li{ /*Ajuste de tamaño y anchura*/
+    display: flex;
+    justify-content: center;
+    margin: 2px;
+    margin-right: 100px;
+    margin-left: 100px;
+}
+li{
+    background-color: lightblue;
+    color: rgb(48, 46, 46) 10vh;
+}
+.listado5000pts{
+    background-color: #10069f;
+    color: wheat;
+    margin-right: 100px;
+    margin-left: 100px;
+}
